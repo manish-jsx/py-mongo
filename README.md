@@ -16,6 +16,19 @@ Write a Python function to connect to a MongoDB database and retrieve all docume
 
 Brief introduction and purpose of your project.
 
+
+## Screenshots
+
+![Screenshot 1](output.png)
+*Output of app.py*
+
+![Screenshot 2](mongoDB_collection.png)
+*MongoDB Collections *
+
+
+
+
+
 ## Prerequisites
 
 List any prerequisites or dependencies that users need to install before using your project.
